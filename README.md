@@ -1,5 +1,6 @@
-# 💫 About Me:
-Hey! I'm Usman, a Computer Science student and a backend-focused developer.<br><br>I mainly work with Node.js, TypeScript, Express, and MongoDB, and I'm currently expanding my backend skills with PostgreSQL, Prisma, Redis, and Docker.<br><br>I also work with Flutter and React and enjoy building real projects to learn new technologies. Right now, I'm particularly interested in backend development, developer tools, AI automation, and AI-powered applications.<br><br>I like learning by building things, breaking them, fixing them, and understanding how they actually work.<br>
+👋 Hi there, I’m Usman Cheema
+
+Hey! I'm  a Computer Science student and a backend-focused developer.<br><br>I mainly work with Node.js, TypeScript, Express, and MongoDB, and I'm currently expanding my backend skills with PostgreSQL, Prisma, Redis, and Docker.<br><br>I also work with Flutter and React and enjoy building real projects to learn new technologies. Right now, I'm particularly interested in backend development, developer tools, AI automation, and AI-powered applications.<br><br>I like learning by building things, breaking them, fixing them, and understanding how they actually work.<br>
 
 
 ## 🌐 Socials:
